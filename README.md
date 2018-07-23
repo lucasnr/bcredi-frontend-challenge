@@ -5,8 +5,8 @@
 Dividimos o teste para desenvolvedor front-end em três níveis:
 
 * **[Junior](https://github.com/bcredi/frontend-challenge/blob/master/README-junior.md)**
-* **Pleno**
-* **Senior**
+* Pleno
+* Senior
 
 ## Sobre a Bcredi
 
