@@ -4,6 +4,8 @@
 
 O teste consiste em codificar o layout abaixo.
 
+**TODO: Adicionar link para o layout**
+
 ### Você pode..
 
 * Utilizar qualquer pré-processador CSS _(preferência por [Sass](http://sass-lang.com))_ ou CSS puro; 
