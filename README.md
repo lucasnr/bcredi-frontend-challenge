@@ -2,8 +2,6 @@
 
 ## Teste para Front-end Developer
 
-O objetivo deste teste é avaliar seu conhecimento técnico. 
-
 Dividimos o teste para desenvolvedor front-end em três níveis:
 
 * **[Junior](https://github.com/bcredi/frontend-challenge/blob/master/README-junior.md)**
