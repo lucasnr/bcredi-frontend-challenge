@@ -1,6 +1,6 @@
 ![Bcredi](https://www.bcredi.com.br/assets_b2c/frontend_mocks/logo_bcredi-66c81996b2d21efc5c38327b35e2cf89e64bbe3f2fc05b2005b54647f91d9402.svg "Bcredi")
 
-### Teste para desenvolvedor front-end junior
+## Teste para desenvolvedor front-end junior
 
 O teste consiste em codificar o layout abaixo.
 
