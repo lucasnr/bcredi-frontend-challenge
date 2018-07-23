@@ -8,9 +8,9 @@ O objetivo deste teste é avaliar seu conhecimento técnico.
 
 Dividimos o teste para desenvolvedor front-end em três níveis:
 
-* **[Junior]()
-* **[Pleno]()
-* **[Senior]()
+* **[Junior]()**
+* **[Pleno]()**
+* **[Senior]()**
 
 # Sobre a Bcredi
 
