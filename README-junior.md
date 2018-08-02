@@ -32,5 +32,5 @@ Seu projeto será avaliado de acordo com a qualidade do código enviado, organiz
 
 Para nos enviar seu código, você pode:
 
-* Suba o projeto em um repositório público no Github e envie para **luigi.santos@bcredi.com.br** com a url do seu repositório;
+* Enviar para **luigi.santos@bcredi.com.br**  a url do seu repositório no Github;
 * Fazer um fork desse repositório e nos mandar uma pull-request.
