@@ -9,15 +9,15 @@ O teste consiste em codificar o layout abaixo.
 ### Você pode..
 
 * Utilizar qualquer pré-processador CSS _(preferência por [Sass](http://sass-lang.com))_ ou CSS puro; 
-* Utilizar algum framework front-end _(preferência por Bulma)_;
-* Utilizar alguma biblioteca JavaScript (mas gostaríamos muito de ver código de JavaScript puro);
+* Utilizar alguma biblioteca front-end _(preferência por Bulma)_;
+* Utilizar alguma biblioteca JavaScript;
 
 ### Esperamos que você..
 
-* Seja rigoroso(a) aos detalhes; 
-* Escreva um código com qualidade;
+* Seja rigoroso(a) aos detalhes;
+* Escreva um código com qualidade (fácil manutenção, baixo acoplamento e alta coesão);
 * Utilize alguma metodologia para organização do CSS _(preferência por [BEM](https://en.bem.info/methodology/))_;
-* Desenvolva-o de modo responsivo; 
+* Desenvolva-o de modo responsivo;
 * Dê suporte a IE10+, Chrome, Safari e Firefox.
 
 ### Por fim..
@@ -30,5 +30,7 @@ Seu projeto será avaliado de acordo com a qualidade do código enviado, organiz
 
 ### Entrega
 
-1. Suba o projeto em um repositório público no Github;
-2. Envie um e-mail para **fredy.schaible@bcredi.com.br** e nos informe a url do seu repositório.
+Para nos enviar seu código, você pode:
+
+* Suba o projeto em um repositório público no Github e envie para **luigi.santos@bcredi.com.br** com a url do seu repositório;
+* Fazer um fork desse repositório e nos mandar uma pull-request.
