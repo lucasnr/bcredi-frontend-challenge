@@ -9,8 +9,6 @@ O teste consiste em codificar o layout disponível através do Zeplin.
 1. Acesse https://zpl.io/aRPm98n.
 2. Logue-se com o usuário: **testebcredi**, senha: **testebcredi123**.
 
-<sub>Caso tenha dificuldades em acessar o projeto, envie um e-mail para **luigi.santos@bcredi.com.br**</sub>
-
 ### Você pode..
 
 * Utilizar qualquer pré-processador CSS; 
@@ -27,7 +25,7 @@ O teste consiste em codificar o layout disponível através do Zeplin.
 
 ### Por fim..
 
-A ideia não é prescrever uma receita do que seria a forma perfeita de se resolver o teste, então, o faça da forma como achar melhor. Usamos o mesmo teste para todos os níveis de front: junior, pleno ou senior, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
+A ideia não é prescrever uma receita do que seria a forma perfeita para resolver o teste, então, o faça da forma como achar melhor. Usamos o mesmo teste para todos os níveis de front: **junior**, **pleno** ou **senior**, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
 
 ### Entrega
 
