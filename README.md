@@ -2,11 +2,39 @@
 
 ## Teste para Front-end Developer
 
-Dividimos o teste para desenvolvedor front-end em três níveis:
+O teste consiste em codificar o layout disponível através do Zeplin.
 
-* **[Junior](https://github.com/bcredi/frontend-challenge/blob/master/README-junior.md)**
-* Pleno
-* Senior
+### Para visualizar o layout no Zeplin:
+
+1. Acesse https://zpl.io/aRPm98n.
+2. Logue-se com o usuário: **testebcredi**, senha: **testebcredi123**.
+
+<sub>Caso tenha dificuldades em acessar o projeto, envie um e-mail para **luigi.santos@bcredi.com.br**</sub>
+
+### Você pode..
+
+* Utilizar qualquer pré-processador CSS; 
+* Utilizar alguma biblioteca front-end;
+* Utilizar alguma biblioteca JavaScript;
+
+### Esperamos que você..
+
+* Seja rigoroso(a) aos detalhes;
+* Escreva um código com qualidade;
+* Utilize alguma metodologia para organização do CSS;
+* Desenvolva o layout de modo responsivo;
+* Dê suporte a IE10+, Chrome, Safari e Firefox.
+
+### Por fim..
+
+A ideia não é prescrever uma receita do que seria a forma perfeita de se resolver o teste, então, o faça da forma como achar melhor. Usamos o mesmo teste para todos os níveis de front: junior, pleno ou senior, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
+
+### Entrega
+
+Para nos enviar seu código, você pode:
+
+* Enviar para **luigi.santos@bcredi.com.br**  a url do seu repositório no Github;
+* Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request.
 
 ## Sobre a Bcredi
 
