@@ -14,27 +14,26 @@ Através do Zeplin você poderá exportar todos os assets necessários.
 ### Você pode..
 
 * Utilizar qualquer pré-processador CSS; 
-* Utilizar algum framework CSS;
-* Utilizar algum framework JavaScript;
+* Utilizar alguma biblioteca front-end;
+* Utilizar alguma biblioteca JavaScript;
 
 ### Esperamos que você..
 
+* Seja rigoroso(a) aos detalhes;
 * Escreva um código com qualidade;
 * Utilize alguma metodologia para organização do CSS;
-* Construa a interface seguindo boas práticas de design responsivo;
+* Desenvolva o layout de modo responsivo;
 * Dê suporte a IE10+, Chrome, Safari e Firefox.
 
 ### Por fim..
 
-A ideia não é prescrever uma receita exata de como o teste deve ser resolvido, por isso, resolva-o da forma que achar melhor. O importante para nós é entender como você codifica uma interface e seu fluxo de trabalho. Além disso, considere que estamos à disposição para qualquer dúvida.
-
-Usamos o mesmo teste para todos os níveis de front: **junior**, **pleno** e **senior**, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
+A ideia não é prescrever uma receita do que seria a forma perfeita para resolver o teste, então, o faça da forma como achar melhor. Usamos o mesmo teste para todos os níveis de front: **junior**, **pleno** ou **senior**, mas procuramos adequar nossa exigência na avaliação com cada um desses níveis.
 
 ### Entrega
 
 Para nos enviar seu código, você pode:
 
-* Enviar para **fredy.schaible@bcredi.com.br**  a url do seu repositório no Github;
+* Enviar para **luigi.santos@bcredi.com.br**  a url do seu repositório no Github;
 * Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request.
 
 ## Sobre a Bcredi
