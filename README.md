@@ -7,7 +7,7 @@ O teste consiste em codificar a interface disponível através do Zeplin.
 ### Para visualizar o layout no Zeplin:
 
 1. Acesse https://zpl.io/aRPm98n.
-2. Logue-se com o usuário: **testebcredi**, senha: **testebcredi123**.
+2. Logue-se com o usuário: **candidatobcredi**, senha: **testebcredi123**.
 
 Através do Zeplin você poderá exportar todos os assets necessários.
 
