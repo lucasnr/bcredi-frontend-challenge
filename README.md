@@ -13,14 +13,15 @@ Através do Zeplin você poderá exportar todos os assets necessários.
 
 ### Você pode..
 
+* Utilizar React como framework JavaScript, mas que a verdade seja dita: gostaríamos muito mais de ver o seu código com JavaScript vanilla;
 * Utilizar qualquer método para estilização: CSS Vanilla, CSS Module, CSS-in-JS, etc.
-* Utilizar React como framework JavaScript, mas que a verdade seja dita: gostaríamos muito mais de ver o seu código com JavaScript vanilla.
 
 ### Esperamos que você..
 
 * Escreva um código com qualidade;
 * Utilize alguma metodologia para organização do CSS;
 * Construa a interface seguindo boas práticas de design responsivo;
+* Faça testes;
 * Dê suporte a IE10+, Chrome, Safari e Firefox.
 
 ### Por fim..
