@@ -13,9 +13,8 @@ Através do Zeplin você poderá exportar todos os assets necessários.
 
 ### Você pode..
 
-* Utilizar qualquer pré-processador CSS; 
-* Utilizar algum framework CSS;
-* Utilizar algum framework JavaScript;
+* Utilizar qualquer método para estilização: CSS Vanilla, CSS Module, CSS-in-JS, etc.
+* Utilizar React como framework JavaScript, mas que a verdade seja dita: gostaríamos muito mais de ver o seu código com JavaScript vanilla.
 
 ### Esperamos que você..
 
