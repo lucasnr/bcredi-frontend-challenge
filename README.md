@@ -1,4 +1,4 @@
-![Bcredi](https://meubcredi.com.br/assets_b2c/frontend_mocks/logo_bcredi-8023892e3b26adf4e82ca69687d3ed87c652a4a44ce2f8ea991e3e254ad2bcae.svg "Bcredi")
+![Bcredi](https://raw.githubusercontent.com/bcredi/bcredi-frontend-challenge/master/logo.svg)
 
 ## Teste para Front-end Developer
 
