@@ -1,4 +1,4 @@
-![Bcredi](logo.svg "Bcredi")
+<img src="logo.svg" width="120" alt="Bcredi">
 
 ## Teste para Front-end Developer
 
