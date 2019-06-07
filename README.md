@@ -34,7 +34,7 @@ Usamos o mesmo teste para todos os níveis de front: **junior**, **pleno** e **s
 
 Para nos enviar seu código, você pode:
 
-* Enviar para **fredy.schaible@bcredi.com.br**  a url do seu repositório no Github;
+* Enviar para **mauricio.girardello@bcredi.com.br**  a url do seu repositório no Github;
 * Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request.
 
 ## Sobre a Bcredi
