@@ -1,4 +1,4 @@
-![Bcredi](https://raw.githubusercontent.com/bcredi/bcredi-frontend-challenge/master/logo.svg)
+![Bcredi](logo.svg "Bcredi")
 
 ## Teste para Front-end Developer
 
