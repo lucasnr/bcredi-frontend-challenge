@@ -15,35 +15,38 @@ Dentro do Zeplin você poderá exportar todos os assets necessários!
 
 ## :clipboard: Requisitos
 
-### Você pode
-* Utilizar qualquer framework JS moderno (React, Vue, Svelte...)
-* Utilizar bibliotecas para o gerenciamento de estado (Redux, Vuex, Mobx...)
-* Utilizar pré ou pós processadores de CSS, bem como frameworks e/ou starterpacks (Sass, PostCSS, CSS Modules, Styled Components...)
-
-
-### O que gostaríamos de ver
-* Apesar de frameworks e libs ajudarem muito no nosso dia-a-dia, gostaríamos muito mais de ver o seu código em Vanilla JS
-* Testes são parte importante do desenvolvimento. Você pode criar testes unitários, e2e e/ou coverage utilizando Jest, Cypress, Mocha, Istanbul, Chai...
-
-
-### Deixando explícito:
-
-#### Requisitos obrigatórios
-* Seguir o layout proposto - afinal, ele é um pré-requisito para essa task!
+### Requisitos obrigatórios
+* Documentação
+  * Instruções de instalação, inicialização e testes
+  * Descrição sobre as tecnologias utilizadas no projeto
 * Design responsivo e cross-browser (IE10+, Chrome, Safari e Firefox)
 * Pelo menos uma estratégia para organização do CSS
 * No _Copypasta_ allowed
-* Validações no formulário - campos obrigatórios e formatos
+* Validações no formulário
+  * Campos obrigatórios
+  * Formatos
 * Testes
 
 
-#### Diferenciais considerados na avaliação
-* Arquitetura do projeto
-* Validar a força da senha
-* Internacionalização do projeto (i18n)
-* Acessibilidade
-* Integração com algum serviço de CI/CD
-* Hospedar a página em algum serviço (GitHub Pages, Amazon S3...)
+### Você pode
+* Utilizar qualquer framework JS moderno (React, Vue, Svelte...)
+* Utilizar bibliotecas para o gerenciamento de estado (Redux, Vuex, Mobx...)
+* Utilizar pré ou pós-processadores de CSS, bem como frameworks e/ou starterpacks (Sass, PostCSS, CSS Modules, Styled Components...)
+* Utilizar [esse template](https://github.com/elsewhencode/project-guidelines/blob/master/README.sample.md) (ou um similar) como base para a documentação
+* Alterar a proposta do layout caso necessário - você terá que nos explicar o porque das mudanças!
+
+
+### O que gostaríamos de ver
+* Apesar de frameworks e libs ajudarem muito no nosso dia a dia, gostaríamos muito mais de ver o seu código em Vanilla JS
+* Testes unitários, e2e e/ou coverage (testes são parte importante do desenvolvimento; você pode utilizar Jest, Cypress, Mocha, Istanbul, Chai...)
+* Uma arquitetura consistente, focada na simplicidade do projeto (**keep it simple!**)
+* Justifique a utilização das tecnologias adotadas - quais foram os pontos positivos e negativos que elas trouxeram?
+
+
+### Recomendações
+* Utilize boas práticas de programação
+* Utilize padrões como [BEM](http://getbem.com/), [ITCSS](https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/), [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it), [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)...
+* Utilize boas práticas no git (commits pequenos, descrições relevantes)
 
 
 ### Por fim
@@ -59,7 +62,7 @@ Para enviar seu código, você pode:
 * Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request.
 
 
-## Sobre a Bcredi
+## :busts_in_silhouette: Sobre a Bcredi
 Nós somos uma fintech que nasceu dentro da Barigui Cia Hipotecária, que tem mais de 10 anos de mercado e já originou mais de R$ 600 milhões em crédito imobiliário. Juntamos essa experiência com nossa tecnologia e vontade de inovar para oferecer uma solução descomplicada para quem procura Crédito com Garantia de Imóvel e Financiamento Imobiliário. 
 
 Nosso propósito é fazer com que os clientes percam menos tempo em burocracias e mais tempo utilizando seu dinheiro de forma consciente, com menos juros e mais prazo para pagamento. Para isso estamos desenvolvendo uma plataforma que envolve toda a cadeia do produto e temos o objetivo de nos tornar líderes em serviços de crédito imobiliário no Brasil.
