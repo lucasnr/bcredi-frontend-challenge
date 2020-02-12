@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>BCredi</title>
+
+		<link rel="stylesheet" href="./assets/css/style.css" />
+		<link
+			rel="stylesheet"
+			href="https://cdn.materialdesignicons.com/4.7.95/css/materialdesignicons.min.css"
+		/>
+	</head>
+	<body>
+		<main class="main">
+			<div class="testimony">
+				<p class="testimony__text">
+					"Obtive crédito para capital de giro. O processo foi bem sucedido e
+					tudo que foi abordado, foi cumprido."
+				</p>
+				<span class="testimony__author">Camila Bragança,</span>
+				<span class="testimony__company">Sideral Tecnologia</span>
+			</div>
+
+			<form class="form">
+				<div class="form__logo-container">
+					<img
+						src="./assets/img/logo.svg"
+						alt="Logomarca da BCredi"
+						class="form__logo"
+					/>
+				</div>
+				<div class="form__container">
+					<h1 class="form__title">Criar meu cadastro</h1>
+					<p class="form__description">
+						Para acompanhar sua contratação de crédito você utilizará seu e-mail
+						e CPF.
+					</p>
+
+					<div class="form__fields">
+						<div class="form__group">
+							<label for="email" class="form__label">E-mail</label>
+							<input
+								id="email"
+								type="email"
+								class="form__input"
+								placeholder="ana.maria@email.com"
+							/>
+						</div>
+
+						<div class="form__group form__group--col">
+							<label for="cpf" class="form__label">CPF</label>
+							<input
+								id="cpf"
+								type="text"
+								class="form__input"
+								placeholder="998.767.888-70"
+							/>
+						</div>
+
+						<div class="form__group">
+							<label for="birthday" class="form__label"
+								>Data de nascimento</label
+							>
+							<input
+								id="birthday"
+								type="text"
+								class="form__input"
+								placeholder="21/12/1990"
+							/>
+						</div>
+
+						<div class="form__group">
+							<label for="password" class="form__label">Senha</label>
+							<input
+								id="password"
+								type="password"
+								class="form__input"
+								placeholder="Cadastre uma senha"
+							/>
+							<i class="form__input__icon mdi mdi-eye"></i>
+						</div>
+
+						<div class="form__group form__group--checkbox">
+							<input type="checkbox" id="terms" name="terms" />
+							<label for="terms" class="form__custom-checkbox"
+								><i class="mdi mdi-check"></i
+							></label>
+							<label for="terms" class="form__custom-checkbox-label">
+								Li e estou de acordo com a
+								<a href="#">Política de Privacidade</a> e a
+								<a href="#">Política de Uso de Informações</a>
+							</label>
+						</div>
+
+						<button type="submit" class="form__button">
+							<i class="form__button__icon mdi mdi-lock"></i> Cadastrar
+						</button>
+					</div>
+
+					<div class="form__has-account">
+						<span>Já fiz meu cadastro.</span><a href="#"> Entrar agora</a>
+					</div>
+				</div>
+			</form>
+		</main>
+	</body>
+</html>
