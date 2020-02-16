@@ -22,7 +22,7 @@
 				<span class="testimony__company">Sideral Tecnologia</span>
 			</div>
 
-			<form class="form">
+			<form class="form" id="form">
 				<div class="form__logo-container">
 					<img
 						src="./assets/img/logo.svg"
@@ -46,6 +46,7 @@
 								class="form__input"
 								placeholder="ana.maria@email.com"
 							/>
+							<span class="form__tooltip">E-mail inválido</span>
 						</div>
 
 						<div class="form__group form__group--col">
@@ -56,6 +57,7 @@
 								class="form__input"
 								placeholder="998.767.888-70"
 							/>
+							<span class="form__tooltip">CPF inválido</span>
 						</div>
 
 						<div class="form__group">
@@ -68,6 +70,7 @@
 								class="form__input"
 								placeholder="21/12/1990"
 							/>
+							<span class="form__tooltip">Data inválida</span>
 						</div>
 
 						<div class="form__group">
@@ -78,6 +81,7 @@
 								class="form__input"
 								placeholder="Cadastre uma senha"
 							/>
+							<span class="form__tooltip">Senha inválida</span>
 							<i class="form__input__icon mdi mdi-eye"></i>
 						</div>
 
@@ -102,7 +106,13 @@
 						<span>Já fiz meu cadastro.</span><a href="#"> Entrar agora</a>
 					</div>
 				</div>
+
+				<span class="form__message">
+					Parabéns! Cadastro realizado com sucesso!
+				</span>
 			</form>
 		</main>
+
+		<script src="./assets/js/form.js"></script>
 	</body>
 </html>
