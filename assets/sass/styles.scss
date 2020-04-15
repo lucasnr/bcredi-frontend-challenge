@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	outline: none;
+	padding: 0px;
+}
+
+body,
+input,
+button {
+	font-family: "Arial", sans-serif;
+	-webkit-font-smoothing: antialised;
+}
+
+input {
+	appearance: none;
+	-webkit-appearance: none;
+}
+
+button {
+	cursor: pointer;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.main {
+	min-height: 100vh;
+
+	@media screen and (min-width: 768px) {
+		display: -ms-grid;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		-ms-grid-columns: 1fr 1fr;
+	}
+
+	@media screen and (min-width: 992px) {
+		grid-template-columns: 32.5rem 1fr;
+		-ms-grid-columns: 32.5rem 1fr;
+	}
+}
+
+@import "./testimony", "./form";

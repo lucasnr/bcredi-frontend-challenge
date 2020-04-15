@@ -1,0 +1,34 @@
+.testimony {
+	background-image: url(../img/rawpixel-411166-unsplash.png);
+	background-position: top center;
+	background-size: cover;
+	box-shadow: inset 0px -140px 30px rgba($color: #000000, $alpha: 0.5);
+	display: none;
+	color: #fff;
+	flex-direction: column;
+	justify-content: flex-end;
+	padding: 1.5rem;
+	text-align: right;
+
+	@media screen and (min-width: 768px) {
+		display: flex;
+	}
+
+	.testimony__text {
+		font-size: 1.25rem;
+		line-height: 1.5;
+		margin: 1.25rem 0;
+	}
+
+	.testimony__author {
+		display: block;
+		font-size: 1rem;
+		font-weight: bold;
+		margin-bottom: 0.5rem;
+	}
+
+	.testimony__company {
+		font-size: 1rem;
+		font-weight: normal;
+	}
+}

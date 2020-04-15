@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>BCredi</title>
 
-		<link rel="stylesheet" href="./assets/css/style.css" />
+		<link rel="stylesheet" href="./assets/css/styles.css" />
 		<link
 			rel="stylesheet"
 			href="https://cdn.materialdesignicons.com/4.7.95/css/materialdesignicons.min.css"
@@ -13,23 +13,24 @@
 	</head>
 	<body>
 		<main class="main">
-			<div class="testimony">
+			<article class="testimony">
 				<p class="testimony__text">
 					"Obtive crédito para capital de giro. O processo foi bem sucedido e
 					tudo que foi abordado, foi cumprido."
 				</p>
-				<span class="testimony__author">Camila Bragança,</span>
-				<span class="testimony__company">Sideral Tecnologia</span>
-			</div>
+				<h3 class="testimony__author">Camila Bragança,</h3>
+				<h4 class="testimony__company">Sideral Tecnologia</h4>
+			</article>
 
 			<form class="form" id="form">
-				<div class="form__logo-container">
+				<aside class="form__logo-container">
 					<img
 						src="./assets/img/logo.svg"
 						alt="Logomarca da BCredi"
 						class="form__logo"
 					/>
-				</div>
+				</aside>
+
 				<div class="form__container">
 					<h1 class="form__title">Criar meu cadastro</h1>
 					<p class="form__description">
@@ -43,6 +44,7 @@
 							<input
 								id="email"
 								type="email"
+								name="email"
 								class="form__input"
 								placeholder="ana.maria@email.com"
 							/>
@@ -54,16 +56,18 @@
 							<input
 								id="cpf"
 								type="text"
+								name="cpf"
 								class="form__input"
 								placeholder="998.767.888-70"
 							/>
 							<span class="form__tooltip">CPF inválido</span>
 						</div>
 
-						<div class="form__group">
-							<label for="birthday" class="form__label"
-								>Data de nascimento</label
-							>
+						<div class="form__group form__group--col">
+							<label for="birthday" class="form__label">
+								Data de nascimento
+							</label>
+
 							<input
 								id="birthday"
 								type="text"
@@ -78,6 +82,7 @@
 							<input
 								id="password"
 								type="password"
+								name="password"
 								class="form__input"
 								placeholder="Cadastre uma senha"
 							/>
@@ -87,9 +92,9 @@
 
 						<div class="form__group form__group--checkbox">
 							<input type="checkbox" id="terms" name="terms" />
-							<label for="terms" class="form__custom-checkbox"
-								><i class="mdi mdi-check"></i
-							></label>
+							<label for="terms" class="form__custom-checkbox">
+								<i class="mdi mdi-check"></i>
+							</label>
 							<label for="terms" class="form__custom-checkbox-label">
 								Li e estou de acordo com a
 								<a href="#">Política de Privacidade</a> e a
@@ -102,9 +107,9 @@
 						</button>
 					</div>
 
-					<div class="form__has-account">
+					<aside class="form__has-account">
 						<span>Já fiz meu cadastro.</span><a href="#"> Entrar agora</a>
-					</div>
+					</aside>
 				</div>
 
 				<span class="form__message">
